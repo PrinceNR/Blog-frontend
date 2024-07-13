@@ -1,0 +1,27 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    background: #fff;
+    gap: 40px;
+}
+
+.input input{
+    width: 100%;
+    border-radius: 8px;
+    border: 2.5px solid #b4b4b4;
+    margin-top: 20px;
+    height: 40px;
+}
+
+textarea{
+    width: 100%;
+    border-radius: 8px;
+    border: 2.5px solid #353535;
+    margin-top: 20px;
+    height: 100px;
+}
+.container{
+    margin:50px auto;
+}
+
